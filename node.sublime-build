@@ -1,0 +1,8 @@
+{
+  "cmd": ["C:/Program Files/nodejs/node.exe", "$file"],
+  "selector": "source.js",
+ "windows" : {
+     "shell": true
+  }
+
+}

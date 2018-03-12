@@ -1,0 +1,28 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Oceanic Next (SL).tmTheme",
+	"command": "save",
+	"folder_exclude_patterns":
+	[
+		"node_modules",
+		".git"
+	],
+	"font_size": 14,
+	"format_on_save": true,
+	"format_selection_only": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"keys":
+	[
+		"ctrl+s"
+	],
+	"node_path":
+	{
+		"linux": "/usr/bin/nodejs",
+		"osx": "/usr/local/bin/node",
+		"windows": "C:/Program Files/nodejs/node.exe"
+	},
+	"print_diagnostics": true,
+	"tab_size": 2
+}
